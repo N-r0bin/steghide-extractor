@@ -20,8 +20,15 @@ Then I realised I would have a more enhanced version so I could use it whenever 
 Ensure `steghide` is installed on your system:
 ```bash
 sudo apt install steghide
+
 ```
-### Running the Script:
+
+## License
+
+This project is licensed under the <a href="https://github.com/N-r0bin/steghide-extractor/blob/main/LICENSE">MIT License</a>
+
+
+## Running the Script:
 #### 1. Clone the repository:
 ```bash
 git clone https://github.com/N-r0bin/steghide-extractor.git
